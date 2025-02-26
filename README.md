@@ -33,7 +33,7 @@ A beautiful and functional Todo List application built with React Native and Red
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/MalithEdirisinghe/TodoAppMobile.git>
 cd todo-list-app
 ```
 
@@ -61,15 +61,15 @@ Then, scan the QR code with the Expo Go app (Android) or the Camera app (iOS).
 
 ```
 /
-  App.js            # Main app component with gradient header
+  App.js            
   /src
     /components
-      TodoInput.js  # Styled input field for adding new todos
-      TodoItem.js   # Card-style individual todo item component
-      TodoList.js   # List with empty state visualization
+      TodoInput.js 
+      TodoItem.js   
+      TodoList.js   
     /redux
-      store.js      # Redux store configuration
-      todoSlice.js  # Redux slice for todos (actions & reducers)
+      store.js      
+      todoSlice.js  
 ```
 
 ## Implementation Details
@@ -112,7 +112,3 @@ Todo items are persisted locally:
 - Enable drag and drop for reordering
 - Implement dark mode support
 - Add due dates and reminders
-
-## License
-
-[MIT License](LICENSE)
