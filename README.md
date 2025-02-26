@@ -33,7 +33,7 @@ A beautiful and functional Todo List application built with React Native and Red
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/MalithEdirisinghe/TodoAppMobile.git>
+git clone https://github.com/MalithEdirisinghe/TodoAppMobile.git
 cd todo-list-app
 ```
 
